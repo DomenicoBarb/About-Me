@@ -45,7 +45,7 @@ export default function Main() {
                             paddingTop: isMobile || isTablet ? '0px' : '75px',
                             fontWeight: '450',
                             textAlign: isMobile || isTablet ? 'center' : 'center',
-                            marginLeft: isMobile || isTablet ? '0px' : '25px',
+                            marginLeft: isMobile || isTablet ? '0px' : '0px',
                         }}
                     >
                         About Me!
