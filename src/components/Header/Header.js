@@ -20,7 +20,6 @@ function Header() {
 			marginTop: isMobile ? 15 : '15px',
           }}
           level={2}
-          title="You found an Easter egg! Are there other ones? 🤔"
         >
           Domenico Barberi
         </Title>
