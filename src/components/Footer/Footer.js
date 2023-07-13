@@ -43,7 +43,7 @@ function Footer() {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/domenico-a-barberi/"
+            href="https://domenicobarberiwhovue.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
