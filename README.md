@@ -1,4 +1,4 @@
-# About Me Page (Ant Dessign Test):
+# About Me Page (Ant Design Test):
 
 ## Description
 This is a test page to play around with Ant Design and React. It is a single page application built up using React Ant Design, HTML, CSS and JS.
