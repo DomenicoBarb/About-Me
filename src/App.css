@@ -113,10 +113,10 @@ body {
   padding: 16px;
   background: linear-gradient(90deg, rgb(111, 111, 111), rgb(0, 0, 0));
   background-size: 200% 200%;
-  animation: colorSweep 4s linear infinite;
+  animation: colorSweep 8s linear infinite;
   -webkit-background: linear-gradient(90deg, rgb(111, 111, 111), rgb(0, 0, 0));
   -webkit-background-size: 200% 200%;
-  -webkit-animation: colorSweep 4s linear infinite;
+  -webkit-animation: colorSweep 8s linear infinite;
 }
 
 
