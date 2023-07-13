@@ -1,7 +1,7 @@
 # About Me Page (Ant Design Test):
 
 ## Description
-This is a test page to play around with Ant Design and React. It is a single page application built up using React Ant Design, HTML, CSS and JS.
+This is a test page to play around with Ant Design and React. It is a single page application built up using React, Ant Design, HTML, CSS and JS.
 
 ## Table of Contents
 
