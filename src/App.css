@@ -21,6 +21,38 @@ body {
   min-height: 100vh;
 }
 
+.navbar-title {
+  display: inline-block;
+}
+
+.navbar-title:hover{
+  cursor: url(./assets/mariomouse.png), auto;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: left;
+  margin-left: 24px;
+}
+
+@media screen and (max-width: 1000px) {
+  .navbar-container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  
+@media screen and (max-width: 300px) {
+  .navbar-title {
+    font-size: 10px;
+  }
+}
+  
+.center {
+  justify-content: center;
+}
+
+
 .header {
   position: absolute;
   top: 0;
